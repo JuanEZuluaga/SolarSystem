@@ -21,3 +21,15 @@ Dependencies:
 https://user-images.githubusercontent.com/42383425/111054388-660c8c00-843a-11eb-8a09-c3236183a3b3.mp4
 
 
+## Important!!
+
+Download this image and build the cube, this cube is important to be able to view the app on your mobile device
+![WhatsApp Image 2021-03-13 at 8 28 45 PM](https://user-images.githubusercontent.com/42383425/111054663-40808200-843c-11eb-8c13-0e71a0ac722a.jpeg)
+
+## Install
+
+Download SSAlphaCube(4).apk in your mobile device 
+Install the apk
+Enjoy :)
+
+
